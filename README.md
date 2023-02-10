@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lmdanie1
 - 👀 I’m interested in mathematical modelling, computational chemistry, and educational leadership
-- 🌱 I’m currently learning how to use Stata!
-- 📫 How to reach me lmdanie1@lakeheadu.ca
+- 📫 How to reach me ldaniels@math.ubc.ca
 - 🐥 Find me on twitter @LindseyDaniels7
 - 🌄 Find me on instagram @lindseymariedaniels
 
