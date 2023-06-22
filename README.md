@@ -2,7 +2,6 @@
 - 👀 I’m interested in mathematical modelling, computational chemistry, and educational leadership
 - 📫 How to reach me ldaniels@math.ubc.ca
 - 🐥 Find me on twitter @LindseyDaniels7
-- 🌄 Find me on instagram @lindseymariedaniels
 
 <!---
 lmdanie1/lmdanie1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
