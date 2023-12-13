@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lmdanie1
-- 👀 I’m interested in mathematical modelling, computational chemistry, and educational leadership
+- 👀 I’m interested in mathematical modelling, computational chemistry, and math education
 - 📫 How to reach me ldaniels@math.ubc.ca
 - 🐥 Find me on twitter @LindseyDaniels7
 
